@@ -1,0 +1,15 @@
+{
+  "name": "simple_javascript_sandbox",
+  "version": "1.0.0",
+  "description": "A place for testing JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node"
+  },
+  "author": "Jonas Stendahl",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^11.0.0"
+  }
+}
